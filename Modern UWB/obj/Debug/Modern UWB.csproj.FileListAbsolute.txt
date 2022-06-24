@@ -1,0 +1,46 @@
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\bin\Debug\Modern UWB.exe.config
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\bin\Debug\Modern UWB.exe
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\bin\Debug\Modern UWB.pdb
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\bin\Debug\Guna.UI.dll
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\bin\Debug\Guna.UI2.dll
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.Properties.Resources.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern UWB.csproj.GenerateResource.cache
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern UWB.csproj.CoreCompileInputs.cache
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern UWB.csproj.CopyComplete
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern UWB.exe
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern UWB.pdb
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\UWB.Forms.Form_LeftBar.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\UWB.UserControls.ComSet.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\UWB.UserControls.UC_Com.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\UWB.Forms.location.UserControl1.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\bin\Debug\SunnyUI.Common.dll
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\bin\Debug\SunnyUI.dll
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.Forms.Test.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern UWB.csprojAssemblyReference.cache
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.Forms.newForm.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.UserControls.Mod.UavMod.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.UserControls.UwbMod.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.UserControls.Mod.UgvMod.resources
+D:\新建文件夹\ModernUwb\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.UserControls.DataTransfer.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\bin\Debug\Modern UWB.exe.config
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\bin\Debug\Modern UWB.exe
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\bin\Debug\Modern UWB.pdb
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\bin\Debug\SunnyUI.Common.dll
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\bin\Debug\SunnyUI.dll
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern UWB.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\UWB.Forms.Form_LeftBar.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.Forms.newForm.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.Forms.Test.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.Properties.Resources.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\UWB.UserControls.ComSet.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.UserControls.DataTransfer.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.UserControls.Mod.UavMod.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.UserControls.Mod.UgvMod.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\UWB.UserControls.UC_Com.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\UWB.Forms.location.UserControl1.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern_UWB.UserControls.UwbMod.resources
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern UWB.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern UWB.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern UWB.csproj.CopyComplete
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern UWB.exe
+C:\Users\DELL\Desktop\【批量下载】C#现代界面开发设计等\Modern UWB\Modern UWB\obj\Debug\Modern UWB.pdb
